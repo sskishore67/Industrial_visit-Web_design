@@ -1,0 +1,26 @@
+body
+{
+    background: linear-gradient(to left,#0075ff,#00c2ff);
+  
+}
+.container
+{
+    padding-top: 20vh;
+}
+
+.card
+{
+    min-height:50vh;
+}
+.form input,#exampleFormControlTextarea2{
+    background-color: #e6e6e6;
+    border-radius: 20px;
+    padding: 10px;
+}
+#button
+{
+    background-color: #71ee5b;
+    border-radius: 20px;
+    padding: 0px 10px 0px 10px;
+    padding: 10px;
+}
